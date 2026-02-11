@@ -4,6 +4,6 @@
     "name": "測試人員"
   },
   "transactions": [
-    { "id": 1, "type": "開戶", "amount": 150000 }
+    { "date": '2026-02-02', "type": "開戶", "amount": 150000, balance:1500000 }
   ]
 }
