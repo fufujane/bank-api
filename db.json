@@ -6,4 +6,12 @@
   "transactions": [
     { "id": 1, "date": "2026-02-01", "type": "開戶", "amount": 480000, "balance": 480000 }
   ]
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "123",
+      "name": "測試人員"
+    }
+  ]
 }
