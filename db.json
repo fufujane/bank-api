@@ -4,7 +4,7 @@
     "name": "行員"
   },
   "transactions": [
-    { "id": 1, "date": "2026/02/01", "type": "開戶", "amount": 480000, "balance": 480000 }
+    { "id": 1, "date": "2026/2/1", "type": "開戶", "amount": 480000, "balance": 480000 }
   ],
   "users": [
     {
